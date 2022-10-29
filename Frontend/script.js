@@ -203,7 +203,7 @@ class Xosa {
         this.content = content
 
     }
-     //metoda vytvořená pro tvorbu html struktury
+     //metoda vytvořená pro inicializaci tvorby html struktury a pro konečné vykreslení
     htmlcreation() {
         this.helper = ""
         this.submenu();
