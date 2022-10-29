@@ -1,5 +1,5 @@
 //definice místa v kterém budeme pracovat při tvorbě html a ukázek
-var prostor = document.getElementById("gameon")
+var prostor = document.getElementById("prostor")
 
 //ukázka pro seřazování
 const ukazka_serazeni =
